@@ -64,6 +64,7 @@ Use the tutorials to try out the different features of MuMap_fwd. The tutorial p
 
 Please cite these following papers which contain much of the material involved in MuMaP_fwd. Please also see the list of references for a full list of articles or databases used in writing this code.  
 
+*Saswata Hier-Majumder. (2017, November 2). MuMap_fwd-1.0 (Version 1.0). Zenodo. [http://doi.org/10.5281/zenodo.1040971](http://doi.org/10.5281/zenodo.1040971)
 * Hier-Majumder, S., Keel, E. B., & Courtier, A. M. (2014). The influence of temperature, bulk composition, and melting on the seismic signature of the low-velocity layer above the transition zone. Journal of Geophysical Research: Solid Earth, 119(2), 971–983. [https://doi.org/10.1002/2013JB010314](https://doi.org/10.1002/2013JB010314)
 * Hier-Majumder, S. (2008). Influence of contiguity on seismic velocities of partially molten aggregates. Journal of Geophysical Research, 113(B12), B12205. [https://doi.org/10.1029/2008JB005662](https://doi.org/10.1029/2008JB005662)  
 
