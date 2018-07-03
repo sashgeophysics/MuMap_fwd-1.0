@@ -7,7 +7,7 @@ effect of melting on the elastic moduli and seismic wave velocities in
 partially molten rocks. To run the demonstrations, a working version of
 Python 2.7.12 or higher, numpy, and matplotlib libraries are required.  
 
-See the <a href=https://github.com/sashgeophysics/MuMap_fwd/wiki> Wiki pages<a>  for detailed documentation. Scroll down for a quick start guide
+See the <a href=https://github.com/sashgeophysics/MuMap_fwd/wiki> Wiki pages </a>  for detailed documentation. Scroll down for a quick start guide
 
 ## Quick start guide
 * Download the files from GitHub as a zipped file
